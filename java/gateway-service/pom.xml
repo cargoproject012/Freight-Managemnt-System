@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>gateway-service</name>
-	<description>Config serivce</description>
+	<description>Gateway Serivce</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -28,7 +28,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>25</java.version>
+		<java.version>21</java.version>
 		<spring-cloud.version>2025.0.1</spring-cloud.version>
 	</properties>
 	<dependencies>
